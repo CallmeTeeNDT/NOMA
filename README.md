@@ -1,2 +1,2 @@
 # NOMA
-This is a small project which both I and my friends do in "Wireless communication and mobile network" class. 
+In this project, the foundational theoretical framework was provided to us in advance by our instructor, serving as a basis for our subsequent work. As a result, our primary responsibilities centered around conducting in-depth research, thoroughly analyzing and internalizing the concepts presented, and applying this understanding through simulation exercises. The objective was to closely reproduce the expected outcomes outlined by the instructor, thereby reinforcing our comprehension of the subject matter and developing our practical skills in implementing theoretical knowledge through simulation tools.
